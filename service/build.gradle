@@ -10,9 +10,5 @@ repositories {
 }
 
 dependencies {
-
-}
-
-dependencies {
     implementation project(":db")
 }
